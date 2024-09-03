@@ -180,6 +180,7 @@ header .navbar ul li a:hover {
 
 /* hero section starts*/
 .home {
+  padding-top: 2vh
   position: relative;
   display: flex;
   flex-wrap: wrap;
