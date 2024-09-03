@@ -101,7 +101,7 @@ header .logo:hover {
 header .navbar ul {
   list-style: none;
   display: flex;
-  justify-content: space-bitween;
+  justify-content: center;
   align-items: center;
 }
 header .navbar li {
@@ -214,6 +214,7 @@ header .navbar ul li a:hover {
 }
 .home .image img {
   width: 70%;
+  margin-top: 2vh
   margin-left: 6rem;
   border-radius: 50%;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
