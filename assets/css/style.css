@@ -101,7 +101,7 @@ header .logo:hover {
 header .navbar ul {
   list-style: none;
   display: flex;
-  justify-content: center;
+  justify-content: space-bitween;
   align-items: center;
 }
 header .navbar li {
