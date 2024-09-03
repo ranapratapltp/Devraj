@@ -147,7 +147,6 @@ header .navbar ul li a:hover {
   header .navbar ul {
     flex-flow: column;
     padding: 1rem;
-    padding-left: 2vw
   }
   header .navbar ul li {
     text-align: center;
